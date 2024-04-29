@@ -1,2 +1,2 @@
 # Nested_Repeater_Chain
-Simple simulation of nested quantum repeater chain
+The Python script allows simulation of $2^k$-link quantum repeater chain with $k$ levels of nested entanglement swapping. In the simulation both end nodes are assumed to have one quantum memory, while $2^k-1$ intermediate repeater nodes have 2 quantum memories each, to generate entanglement with left and right neighbors. The script is able to simulate the the long-run throughput and on-demand latency of entanglement distribution between two end nodes.
